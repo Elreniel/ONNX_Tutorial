@@ -4,7 +4,6 @@ Created on Mon Aug  9 09:44:05 2021
 
 @author: bcosk
 """
-
 import cv2
 import onnx
 import onnxruntime
